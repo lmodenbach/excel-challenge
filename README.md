@@ -1,2 +1,2 @@
 # excel-challenge
-Excel HW repo, contains spreadsheet and Word document
+Repository containing an Excel spreadsheet and a Word document
